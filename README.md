@@ -8,7 +8,8 @@
 
 - Classical, Ambient, Psychedelic, and Rock music 
 - Science of all kinds
-- Miscellaneous Trivia 
+- Miscellaneous Trivia
+- Playing my Guitars or Drawing
 - Harry Potter
 - Cooking 
 - Gardening 
