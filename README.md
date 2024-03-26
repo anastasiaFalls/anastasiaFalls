@@ -23,6 +23,7 @@
 - Self improvement 
 - Romanticism
 
+
 -**Favorite things to study 💋:**
 
 - Cosmology 
@@ -30,13 +31,15 @@
 - Zoology
 - Botany
 - Abnormal psychology 
-- Existentialist Philosophy 
+- Existentialist Philosophy
+- Strange Human Phenomena
+- Criminology
 - Physics of relativity 
-- Criminal psychology 
 - International affairs 
 - Applied mathematics and physics 
 - Principles of Music
-- European History 
+- European History
+- Substances and the Brain 
 
 -**🌱 I’m currently learning** C++, Python, Model Rocketing, University Physics II, III
 - **💞️ I’m looking to collaborate on any project!**
