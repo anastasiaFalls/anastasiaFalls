@@ -58,6 +58,8 @@
 - the vibrations should equal out to one electronic pulse per second. These pulses power the gear
 - wheels forward, in turn moving the clock's hands clockwise around the clock dial.
 
+- Can't imagine how amazing it must have felt to figure that out. 
+
 <!---
 anastasiaFalls/anastasiaFalls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
