@@ -2,6 +2,7 @@
 - **👀 I’m interested in LOTS OF STUFF and I like making things sometimes**
 
 - **check it out >:D**
+- **(See Repositories)**
 -
 -
 -**Things I Love 🩷:**
