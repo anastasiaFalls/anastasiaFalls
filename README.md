@@ -1,5 +1,5 @@
 - **👋 Hi, I’m @anastasiaFalls**
-- **👀 I’m interested in LOTS OF STUFF**
+- **👀 I’m interested in LOTS OF STUFF and I like making things sometimes**
 
 - **check it out >:D**
 -
