@@ -14,7 +14,8 @@
 - Gardening 
 - Contemporary and baroque art 
 - Sociology and History 
-- Baseball practice on a sunny day 
+- Baseball practice on a sunny day
+- Y2K
 - Debate 
 - Movies (80’s, 90’s, 00’s 10’s)
 - Extreme and turbulent weather 
