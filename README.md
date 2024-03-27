@@ -65,4 +65,14 @@ anastasiaFalls/anastasiaFalls is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://t.bkit.co/w_66046a05bf6c9.gif" />
+<!-- Google tag (gtag.js) 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8X4N8MRVX7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8X4N8MRVX7');
+</script>
+
+--->
