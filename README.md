@@ -47,7 +47,7 @@
 -**🌱 I’m currently learning** C++, Python, Model Rocketing, University Physics II, III
 - **💞️ I’m looking to collaborate on any project!**
 -** 📫 How to reach me** (anastasia.falls@aol.com, or zephrongalaxy on Instagram)
-- **😄 Pronouns:** love/you
+- **😄 Pronouns:** kitty/kat
 - **⚡ Fun fact:** If you have ever read a clock, or a hand watch, you have probably seen
 -  “Quartz” on it. That is because each quartz clock or watch contains a small piece of quartz,
 -  usually shaped like a musician's tuning fork. The battery inside a quartz clock, watch or
@@ -76,3 +76,5 @@ You can click the Preview link to take a look at your changes.
 </script>
 
  -->
+
+
