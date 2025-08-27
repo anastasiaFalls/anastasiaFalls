@@ -3,10 +3,10 @@
 #This is where I post projects I make in my free time. <3
 - **check it out >:D**
 
--**🌱 I’m currently learning** Thermodynamics, Digital Circuits, Fluid Mechanics, Kinematics and Dynamics of Mechanical Systems, and lots of ETC!
+-**🌱 I’m currently learning** Thermodynamics, Digital Circuits, Fluid Mechanics, Kinematics and Dynamics of Mechanical Systems, and lots more :3
 
 - **💞️ I’m looking to collaborate on any project!**
--** 📫 How to reach me** (anastasia.falls@aol.com)
+- ** 📫 How to reach me** (anastasia.falls@aol.com)
 
 
 <!---
