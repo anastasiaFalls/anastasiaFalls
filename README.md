@@ -1,7 +1,8 @@
 - **👋 Hi, I’m @anastasiaFalls**
 - **👀 I’m interested in LOTS OF STUFF and I like making things sometimes**
 - ** 18 / ♏ / entj **
-#This is where I post projects I make in my free time. <3
+- 
+- #This is where I post projects I make in my free time. <3 **
 - **check it out >:D**
 
 -**🌱 I’m currently learning** Thermodynamics, Digital Circuits, Fluid Mechanics, Kinematics and Dynamics of Mechanical Systems, and lots more :3
